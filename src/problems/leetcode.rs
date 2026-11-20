@@ -1,0 +1,1 @@
+pub mod s1929_get_concatenation_of_arrays;
