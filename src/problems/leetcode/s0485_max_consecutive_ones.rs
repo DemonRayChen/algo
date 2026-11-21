@@ -1,7 +1,7 @@
-//! # 1470. Shuffle the Array
-//! 来源: LeetCode | 链接: https://leetcode.com/problems/shuffle-the-array
+//! # 1470. Max Consecutive Ones
+//! 来源: LeetCode | 链接: https://leetcode.com/problems/max-consecutive-ones
 //! 难度: Easy ｜ 标签: Array
-//! 归属: Quest · Array I · Q2 | Date: 2026-11-20
+//! 归属: Quest · Array I · Q3 | Date: 2026-11-21
 
 pub struct Solution;
 
