@@ -1,3 +1,4 @@
+pub mod s0084_largest_rectangle_in_histogram;
 pub mod s0150_evaluate_reverse_polish_notation;
 pub mod s0448_find_all_numbers_disappeared_in_the_array;
 pub mod s0485_max_consecutive_ones;
