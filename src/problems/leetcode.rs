@@ -10,3 +10,5 @@ pub mod s1441_build_an_array_with_stack_operations;
 pub mod s1470_shuffle_the_array;
 pub mod s1475_final_prices_with_a_special_discount_in_a_shop;
 pub mod s1929_get_concatenation_of_arrays;
+pub mod s_quest_assignment_i;
+pub mod s_quest_assignment_ii;
