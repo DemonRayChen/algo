@@ -1,7 +1,7 @@
 //! # 0373. Find K Pairs with Smallest Sums
 //! 来源: LeetCode | 链接: https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
 //! 难度: Easy ｜ 标签: Array Heap(Priority Queue)
-//! 归属: Quest · Heap - Q | Date: 2026-11-26
+//! 归属: Quest · Heap - Q2 | Date: 2026-11-26
 
 use std::{cmp::Reverse, collections::BinaryHeap, vec};
 

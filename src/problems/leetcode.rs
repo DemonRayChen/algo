@@ -8,6 +8,7 @@ pub mod s0636_exclusive_time_of_functions;
 pub mod s0645_set_mismatch;
 pub mod s0739_daily_temperatures;
 pub mod s1046_last_stone_weight;
+pub mod s1354_construct_target_array_with_multiple_sums;
 pub mod s1365_how_many_nums_are_smaller_than_the_current_num;
 pub mod s1441_build_an_array_with_stack_operations;
 pub mod s1470_shuffle_the_array;
